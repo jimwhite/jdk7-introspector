@@ -36,7 +36,7 @@ USE THIS CODE AT YOUR OWN RISK!
 
 If this doesn't work for you, I will answer emails when I can but
 I cannot debug your system for you. I am however a consultant with
-a fair bit of experience with concurrency issue and so if you need 
+a fair bit of experience with concurrency issues and so if you need 
 professional help then I may be able to help you.
 
 Jim White <mailto:james.paul.white@gmail.com>
