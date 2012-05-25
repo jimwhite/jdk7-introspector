@@ -11,7 +11,7 @@ broken.  Folks using dynamic languages such as Groovy that make
 heavy use of reflection and introspection have been experiencing
 deadlocks because of that buggy code.
 
-	[http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7064279][http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7064279]
+	[http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7064279](http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7064279)
 
 Build the jar with:
 
