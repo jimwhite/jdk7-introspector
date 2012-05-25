@@ -1,8 +1,3 @@
-jdk7-introspector
-=================
-
-OpenJDK 7 Beans Introspector Backport
-
 This is a quickie backport of java.beans.Introspector from OpenJDK
 7 so that it can be used (I hope) with OpenJDK 6 (haven't tried
 with 5).  The reason for this backport is that the locking code
